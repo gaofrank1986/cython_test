@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# exclude everything
+# *
+# !.gitignore
+# !*.py
+# !*.json
+# !./json
+# !./src
+
+
+*.so
+*.o
+*.mod
+
+
+
